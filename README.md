@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mayurnawal123
-- 👀 I’m interested in Machine Learning and Oil and Gas Industry. 
+- 👀 I’m interested in overlap of Machine Learning/Deep Learning and Oil and Gas Industry. 
 - 🌱 I’m currently learning deep learning architectures like Unet and Autoencoders. 
 - 💞️ I’m looking to collaborate on new applications of ML in geoscience, petrophysics, production and seismic. 
 - 📫 How to reach me: mayur.nawal@gmail.com or whatsapp - +918959938249
